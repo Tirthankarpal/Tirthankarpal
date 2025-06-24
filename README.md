@@ -46,6 +46,9 @@
 
 _✨ Always learning and building cool stuff!_
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tirthankarpal&label=Profile%20views&color=0e75b6&style=flat" alt="Tirthankarpal" />
+</p>
 
 <!---
 Tirthankarpal/Tirthankarpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
