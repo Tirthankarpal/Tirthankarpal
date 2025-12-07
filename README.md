@@ -26,12 +26,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tirthankarpal&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats-seven-wheat.vercel.app/api?username=Tirthankarpal&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tirthankarpal&theme=radical" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tirthankarpal&layout=compact&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats-seven-wheat.vercel.app/api/top-langs/?username=Tirthankarpal&layout=compact&theme=radical" width="47%" />
 </p>
 ---
 
